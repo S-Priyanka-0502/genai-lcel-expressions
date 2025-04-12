@@ -68,6 +68,7 @@ print("Recommendation:", parsed_result)
 ```
 ### OUTPUT:
 
+![Screenshot 2025-04-12 103633](https://github.com/user-attachments/assets/8eb9b40e-23e2-4f06-a6bf-e07e744ee98e)
 
 
 ### RESULT:
